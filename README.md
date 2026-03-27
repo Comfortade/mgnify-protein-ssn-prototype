@@ -11,7 +11,7 @@ To verify the alignment-to-visualization flow, a 500-sequence subset from UniPro
 * **Output:** Node/Edge tables compatible with WebGPU-accelerated rendering.
 
 ### Visualization Proof-of-Concept
-![SSN Visualization](./images/prototype_ssn_map.png)
+![SSN Visualization](./images/visualization.png)
 *Figure 1: SSN prototype showing functional clustering. Distance correlates to similarity; colors represent biomes.*
 
 ##  Scalability Strategy
